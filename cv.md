@@ -6,3 +6,4 @@
   
   I started learning programming and have no skills
   
+I know English at a veri basic level
