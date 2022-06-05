@@ -4,3 +4,5 @@
 
   I wont to become a fronted developer
   
+  I started learning programming and have no skills
+  
